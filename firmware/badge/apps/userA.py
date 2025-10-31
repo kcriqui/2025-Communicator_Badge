@@ -1,4 +1,4 @@
-"""Template app for badge applications. Copy this file and update to implement your own app."""
+"""Template app for badge applications. Copy this file and update to implement your own app. xxx"""
 
 import uasyncio as aio  # type: ignore
 
@@ -50,7 +50,7 @@ class App(BaseApp):
         """
 
         if self.badge.keyboard.f1():
-            print("Hello ")
+            print("Helloxxx  ")
         if self.badge.keyboard.f2():
             print("World.  ")
         if self.badge.keyboard.f3():
